@@ -56,6 +56,8 @@
     "react-favicon": "0.0.14",
     "react-meta-tags": "^0.7.2",
     "react-preload": "^0.6.0",
-    "react-scrollable-anchor": "^0.6.1"
+    "react-redux": "^6.0.0",
+    "react-scrollable-anchor": "^0.6.1",
+    "redux": "^4.0.1"
   }
 }
